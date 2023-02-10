@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\bin\Debug\net6.0\AnnonymosType.exe
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\bin\Debug\net6.0\AnnonymosType.deps.json
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\bin\Debug\net6.0\AnnonymosType.runtimeconfig.json
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\bin\Debug\net6.0\AnnonymosType.dll
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\bin\Debug\net6.0\AnnonymosType.pdb
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.AssemblyInfo.cs
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.dll
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\refint\AnnonymosType.dll
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.pdb
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\AnnonymosType.genruntimeconfig.cache
+C:\Users\user\source\repos\OnlineSchool\Poly\AnnonymosType\obj\Debug\net6.0\ref\AnnonymosType.dll
