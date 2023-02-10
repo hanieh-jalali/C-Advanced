@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Delegaye\\Delegate.csproj",
+      "projectUniqueName": "D:\\Poly\\Delegaye\\Delegate.csproj",
       "projectName": "Delegate",
-      "projectPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Delegaye\\Delegate.csproj",
+      "projectPath": "D:\\Poly\\Delegaye\\Delegate.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Delegaye\\obj\\",
+      "outputPath": "D:\\Poly\\Delegaye\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

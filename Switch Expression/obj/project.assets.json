@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Switch Expression\\Switch Expression.csproj",
+      "projectUniqueName": "D:\\Poly\\Switch Expression\\Switch Expression.csproj",
       "projectName": "Switch Expression",
-      "projectPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Switch Expression\\Switch Expression.csproj",
+      "projectPath": "D:\\Poly\\Switch Expression\\Switch Expression.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Switch Expression\\obj\\",
+      "outputPath": "D:\\Poly\\Switch Expression\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\StaticClassAndProp\\StaticClassAndProp.csproj",
+      "projectUniqueName": "D:\\Poly\\StaticClassAndProp\\StaticClassAndProp.csproj",
       "projectName": "StaticClassAndProp",
-      "projectPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\StaticClassAndProp\\StaticClassAndProp.csproj",
+      "projectPath": "D:\\Poly\\StaticClassAndProp\\StaticClassAndProp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\StaticClassAndProp\\obj\\",
+      "outputPath": "D:\\Poly\\StaticClassAndProp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

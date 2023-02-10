@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Poly\\Poly.csproj",
+      "projectUniqueName": "D:\\Poly\\Poly\\Poly.csproj",
       "projectName": "Poly",
-      "projectPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Poly\\Poly.csproj",
+      "projectPath": "D:\\Poly\\Poly\\Poly.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Poly\\obj\\",
+      "outputPath": "D:\\Poly\\Poly\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

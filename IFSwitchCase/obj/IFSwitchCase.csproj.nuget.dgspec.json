@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\IFSwitchCase\\IFSwitchCase.csproj": {}
+    "D:\\Poly\\IFSwitchCase\\IFSwitchCase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\IFSwitchCase\\IFSwitchCase.csproj": {
+    "D:\\Poly\\IFSwitchCase\\IFSwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\IFSwitchCase\\IFSwitchCase.csproj",
+        "projectUniqueName": "D:\\Poly\\IFSwitchCase\\IFSwitchCase.csproj",
         "projectName": "IFSwitchCase",
-        "projectPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\IFSwitchCase\\IFSwitchCase.csproj",
+        "projectPath": "D:\\Poly\\IFSwitchCase\\IFSwitchCase.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\IFSwitchCase\\obj\\",
+        "outputPath": "D:\\Poly\\IFSwitchCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Tuples\\Tuples.csproj": {}
+    "D:\\Poly\\Tuples\\Tuples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Tuples\\Tuples.csproj": {
+    "D:\\Poly\\Tuples\\Tuples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Tuples\\Tuples.csproj",
+        "projectUniqueName": "D:\\Poly\\Tuples\\Tuples.csproj",
         "projectName": "Tuples",
-        "projectPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Tuples\\Tuples.csproj",
+        "projectPath": "D:\\Poly\\Tuples\\Tuples.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\OnlineSchool\\Poly\\Tuples\\obj\\",
+        "outputPath": "D:\\Poly\\Tuples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
