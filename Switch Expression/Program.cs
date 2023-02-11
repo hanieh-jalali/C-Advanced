@@ -1,10 +1,10 @@
 ﻿
-string name = "Hanieh";
+string name = "EveryThing";
 
 var res = name switch
 {
-    "Hanieh" => "kheili zibast",
-    "Babak" => "kheili khare",
+    "Everything" => "Is Nothing",
+    "Nothing" => "bela bela bela bela",
 
     _ => "boro baba"
 };
